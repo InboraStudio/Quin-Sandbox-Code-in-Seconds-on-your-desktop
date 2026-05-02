@@ -4,7 +4,7 @@
 
 **Code in Seconds on Your Desktop**
 
-[IMAGE_PLACEHOLDER_1: High-resolution screenshot of the main application window]
+
 
 A high-performance, multi-language coding environment built for immediate execution. Skip the configuration and start writing code.
 
