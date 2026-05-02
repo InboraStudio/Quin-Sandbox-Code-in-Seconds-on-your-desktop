@@ -16,7 +16,8 @@ A high-performance, multi-language coding environment built for immediate execut
 
 Quin Sandbox is a native desktop application engineered to eliminate the friction between thought and execution. Built on a robust C++ foundation with a modern UI architecture, it provides an instantaneous development environment for systems programming, algorithmic prototyping, and terminal application development.
 
-[IMAGE_PLACEHOLDER_2: Animated GIF demonstrating instantaneous code compilation and execution]
+<img width="1297" height="815" alt="image" src="https://github.com/user-attachments/assets/056bd9c7-ee1a-42c5-a90c-106c153e93a5" />
+
 
 ## Core Capabilities
 
@@ -63,4 +64,5 @@ Pull requests are accepted. For significant architectural changes, please open a
 
 ## License
 
+Readme By: claude sonnet 4.6
 Copyright (c) Inbora Studio. All Rights Reserved.
