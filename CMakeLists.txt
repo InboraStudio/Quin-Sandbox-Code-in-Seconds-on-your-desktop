@@ -34,9 +34,7 @@ set(RESOURCES
     resources/resources.qrc
 )
 
-if(WIN32 AND EXISTS "${CMAKE_SOURCE_DIR}/resources/icon.rc")
-    set(APP_ICON resources/icon.rc)
-endif()
+# (App icon for exe removed due to MinGW windres bug with spaces in paths)
 
 qt_add_executable(QuinSandbox
     ${SOURCES}
