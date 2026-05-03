@@ -4,8 +4,10 @@
 
 **Code in Seconds on Your Desktop**
 
+<img width="144" height="148" alt="image" src="https://github.com/user-attachments/assets/978a9109-ff22-48f8-b6e8-508891ebb178" />
 
 
+---
 A high-performance, multi-language coding environment built for immediate execution. Skip the configuration and start writing code.
 
 </div>
